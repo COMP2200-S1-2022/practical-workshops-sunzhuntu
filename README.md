@@ -5,7 +5,3 @@ This repository will contain your practical notebooks for COMP2200/COMP6200 Sess
 
 You can update this README file to personalise your repository.
 
-git pull
-git add 
-git commit
-git push
